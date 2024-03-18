@@ -1,0 +1,68 @@
+h1 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin-right: 30px;
+}
+
+label {
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+}
+
+button {
+    background-color: rgb(255, 102, 252);
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0px;
+    height: 35px;
+    width: 80px;
+    margin-right: 79px;
+
+}
+
+#userlable {
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+#passlable {
+    font-size: 20px;
+}
+
+#boxsize {
+    size: 30px;
+}
+
+
+.lableClass {
+    color: rgb(255, 255, 255);
+}
+
+.bc {
+    color: rgb(255, 255, 255);
+}
+
+#ar {
+    margin-right: 65px;
+    color: blue;
+}
+
+#error {
+    margin-right: 75px;
+}
+
+.regbc {
+    border-color: white;
+    border-radius: 20px;
+    background-color: rgba(255, 102, 252, 0.3);
+    width: 370px;
+    height: 350px;
+    margin-top: 13.5%;
+    margin-left: 36.5%;
+}
+
+form {
+    text-align: right;
+    margin-right: 70px;
+
+}
