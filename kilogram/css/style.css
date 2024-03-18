@@ -1,0 +1,126 @@
+.lgmain {
+    z-index: 999;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+#lstyle {
+    position: fixed;
+    color: #FFFDF6;
+    background-color: #ABBC86;
+    width: auto;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+
+.logo {
+    z-index: 999;
+    position: fixed;
+    background-color: #CADBB7;
+    width: 100%;
+    border-radius: 20px;
+    border: 5px solid #93A267;
+    height: 75px;
+
+}
+
+.home {
+    position: fixed;
+    color: #93A267;
+    background-color: #CADBB7;
+    top: 20%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid #93A267;
+
+}
+
+.search {
+    position: fixed;
+    color: #93A267;
+    background-color: #CADBB7;
+    top: 36%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid #93A267;
+
+}
+
+.explorer {
+    position: fixed;
+    color: #93A267;
+    background-color: #CADBB7;
+    top: 52%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid #93A267;
+
+}
+
+.reels {
+    position: fixed;
+    color: #93A267;
+    background-color: #CADBB7;
+    top: 68%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid #93A267;
+
+}
+
+.messages {
+    position: fixed;
+    color: #93A267;
+    background-color: #CADBB7;
+    top: 84%;
+    width: 40%;
+    border-radius: 20px;
+    border: 5px solid #93A267;
+
+}
+
+.pmain{
+    position: relative;
+    top: 105px;
+}
+.post {
+    position: relative ;
+    left: 50%;
+    background-color: #FBFBFB;
+    width: 600px;
+    height: 750px;
+    border-radius: 20px;
+
+}
+
+#username {
+    position: relative;
+    color: #ffffff;
+    right: 70px;
+    bottom: 30px;
+    background-color: #93A267;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#name {
+    position: relative;
+    color: #485935;
+    right: 80px;
+}
+
+#caption {
+    position: relative;
+    color: #485935;
+    right: 70px;
+}
+
+.p1 {
+    position: relative;
+    left: 20%;
+    top: 10%;
+}
+
+
