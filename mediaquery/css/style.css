@@ -1,0 +1,128 @@
+.example {
+    padding: 20px;
+    color: white;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .example {
+        background: rgb(139, 182, 223);
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .example {
+        background: rgb(250, 194, 247);
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .example {
+        background: rgb(201, 193, 126);
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .example {
+        background: rgb(216, 71, 103);
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .example {
+        background: rgb(142, 231, 182);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    p {
+        text-align: center;
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (min-width: 600px) {
+    p {
+        text-align: center;
+        font-size: 20px;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    p {
+        text-align: center;
+        font-size: 30px;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    p {
+        text-align: center;
+        font-size: 50px;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    p {
+        text-align: center;
+        font-size: 100px;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .pic {
+        height: 500px;
+        width: 500px;
+        background-image: url("images/pic1.jpg");
+        background-repeat: no-repeat;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .pic {
+        height: 500px;
+        width: 500px;
+        background-image: url("images/pic2.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .pic {
+        height: 500px;
+        width: 500px;
+        background-image: url("images/pic3.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .pic {
+        height: 500px;
+        width: 500px;
+        background-image: url("images/pic4.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .pic {
+        height: 500px;
+        width: 500px;
+        background-image: url("images/pic5.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
